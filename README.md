@@ -25,7 +25,7 @@ This application uses MySQL for data storage and provides a user-friendly interf
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/yourusername/employee-leave-management-system.git
+   git clone https://github.com/Mariyam3912/Employee-Leave-Management-System.git
    cd employee-leave-management-system
    ```
 
